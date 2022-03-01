@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\HolePlagin.dll"</Assembly>
+		<AddInId>684599A4-5D02-4C7A-B06E-60743B12B247</AddInId>
+		<FullClassName>HolePlagin.AddHole</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка отверстий в АР</Text>
+	</AddIn>
+</RevitAddIns>
